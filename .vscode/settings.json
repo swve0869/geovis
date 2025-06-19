@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "glad.h": "c",
+        "glfw3.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/swami/code/geovis/glfw-3.4"
+}
